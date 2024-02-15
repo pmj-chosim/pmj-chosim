@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🌱 Hello. I'm Minjin Park from Korea. I'm a ComputerScience&Engineering student and deeply immersed in AI, Network and Devops
 <!--
 **pmj-chosim/pmj-chosim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
