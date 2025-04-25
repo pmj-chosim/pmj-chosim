@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 Hello. I'm Minjin Park from Korea. I'm a ComputerScience&Engineering student and deeply immersed in Infra, Network and Devops.
 
-And I'm a currently Microsoft Certified Trainer about Azure Infrastructure and Administration.  
+
 <!--
 **pmj-chosim/pmj-chosim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
