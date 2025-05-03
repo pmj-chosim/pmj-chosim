@@ -3,7 +3,7 @@
 🌱 Hello! I'm Minjin Park from Korea,   
 a Computer Science & Engineering student passionate about **Cloud Infrastructure, Networking, and DevOps**.  
 
-💡 I've designed and built various **cloud solutions** for competitions hosted by **Google Korea, Microsoft Korea**, and more.   
+💡 I've designed and built various **cloud/infra solutions** for competitions hosted by **Google Korea, Microsoft Korea**, and more.   
 I thrive on *optimizing systems* and *creating scalable architectures*.  
 
 💙 I love **Open Source**!   
