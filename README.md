@@ -1,14 +1,19 @@
 ### Hi there 👋
   
-🌱 Hello! I'm Minjin Park from Korea, a Computer Science & Engineering student passionate about **Cloud Infrastructure, Networking, and DevOps**.
+🌱 Hello! I'm Minjin Park from Korea,   
+a Computer Science & Engineering student passionate about **Cloud Infrastructure, Networking, and DevOps**.  
 
-💡 I've designed and built various **cloud solutions** for competitions hosted by **Google Korea, Microsoft Korea**, and more. I thrive on optimizing systems and creating scalable architectures.
+💡 I've designed and built various **cloud solutions** for competitions hosted by **Google Korea, Microsoft Korea**, and more.   
+I thrive on *optimizing systems* and *creating scalable architectures*.  
 
-💙 I love **Open Source**! I've contributed to GitHub, Microsoft Azure OpenAI SDK Proxy, and other projects. I've actively participated in open-source contributions like Hacktoberfest.
+💙 I love **Open Source**!   
+I've contributed to GitHub, Microsoft Azure OpenAI SDK Proxy, and other projects.  
+I've actively participated in open-source contributions like Hacktoberfest.  
 
-📢 Beyond coding, I enjoy sharing knowledge and discussing ideas with others! I've spoken at Global AI BootCamp, .NET Conf 2024, DDD Seoul, and more.
-
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/minjinpark001122334455/)!
+📢 Beyond coding, I enjoy sharing knowledge and discussing ideas with others!   
+I've spoken at **Global AI BootCamp, .NET Conf 2024, DDD Seoul**, and more. Additionally, I actively host events to foster collaboration and learning:)  
+  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/minjinpark001122334455/)!  
 <!--
 **pmj-chosim/pmj-chosim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
