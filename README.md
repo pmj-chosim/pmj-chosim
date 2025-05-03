@@ -11,7 +11,8 @@ I've contributed to GitHub, Microsoft Azure OpenAI SDK Proxy, and other projects
 I've actively participated in open-source contributions like Hacktoberfest.  
 
 📢 Beyond coding, I enjoy sharing knowledge and discussing ideas with others!   
-I've spoken at **Global AI BootCamp, .NET Conf 2024, DDD Seoul**, and more. Additionally, I actively host events to foster collaboration and learning:)  
+I've spoken at **Global AI BootCamp, .NET Conf 2024, DDD Seoul**, and more.  
+Additionally, I actively host events to foster collaboration and learning:)  
   
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/minjinpark001122334455/)!  
 <!--
