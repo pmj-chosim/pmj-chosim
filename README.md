@@ -8,7 +8,7 @@ I'm also a Microsoft Certified Trainer(MCT) about that domain.
 I thrive on *optimizing systems* and *creating scalable architectures*.  
 
 💙 I love **Open Source**!   
-I've contributed to GitHub, Microsoft Azure OpenAI SDK Proxy, and other projects.  
+I've contributed to GitHub Education, Microsoft Azure OpenAI SDK Proxy, and other projects.  
 I've actively participated in open-source contributions like Hacktoberfest.  
 
 📢 Beyond coding, I enjoy sharing knowledge and discussing ideas with others!   
