@@ -1,7 +1,7 @@
 ### Hi there 👋
   
 🌱 Hello! I'm Minjin Park from Korea,   
-a Computer Science & Engineering student passionate about **Cloud Infrastructure, Networking, and DevOps**.  
+a Computer Science & Engineering major passionate about **Cloud Infrastructure, Networking, and DevOps**.  
 
 💡 I've designed and built various **cloud/infra solutions** for competitions hosted by **Google Korea, Microsoft Korea**, and more.   
 I'm also a Microsoft Certified Trainer(MCT) about that domain.  
